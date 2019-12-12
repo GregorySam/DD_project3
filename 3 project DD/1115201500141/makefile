@@ -1,0 +1,1 @@
+Words_Search_Engine:main.c typos_stoixeiouDDA.c Words.c ./AVL/ch8_AVLpointer.c ./BST/ch8_BSTpointerR.c; gcc -o Words_Search_Engine main.c typos_stoixeiouDDA.c Words.c ./AVL/ch8_AVLpointer.c ./BST/ch8_BSTpointerR.c 
